@@ -4,7 +4,7 @@
 	import RightColumn from '../components/RightColumn/RightColumn.svelte';
 </script>
 
-<div class="main__page flex h-screen bg-gray-200">
+<div class="main__page flex h-screen bg-slate-100">
 	<div class="col1 w-1/5 flex items-center justify-center ">
 		<div class="left__column h-[700px] w-11/12 bg-white rounded-md">
 			<LeftColMenu />
